@@ -1,5 +1,5 @@
 # Task_1_getting_to_philosophy
-Getting to Philosophy Python Script [Widebot Internship Task 2019]
+Getting to Philosophy Python Script [Widebot Internship Task 2020]
 
 Did you know that if you continously clicked at first link on any Wekipedia page, you will reach Philosophy page at the end?
 This Python script perform this operation. Takes any Wekipedia Page as Input and Prints The Name of First Link Pages untill Phiosophy.
