@@ -42,7 +42,7 @@ while True:
             para = i.getText()
             hrefs = i.find_all('a')
             count = -1
-            for j in hrefs:
+            for j in hrefs: 
                 href = j.get('href')
                 count += 1
                 link = j.text
